@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ribeye&display=swap');
+
+.headerimg {
+  background-image:  url("headerimg.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  font-family: 'Lobster', cursive;
+ }
+
+.row img {
+  width:90%;
+}
+
+.row {
+  margin: 50px 0px;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+}
+
+h2 {
+font-family: 'Lobster', cursive;}
+
+h3 {
+    font-family: 'Lobster', cursive;
+}
+
+h4 {
+    font-family: 'Itim', cursive;
+}
+
+h5 {
+    font-family: 'Itim', cursive;
+}
+
+.body {
+   font-family: 'Itim', cursive;
+}
+
+p {
+    font-family: 'Itim', cursive;
+}
+
+li {
+  font-family: 'Ribeye', cursive;
+}
+
+ul {
+  font-family: 'Ribeye', cursive;
+}
